@@ -2,12 +2,15 @@
 
 <div align="center">
   <!-- Cabeçalho com GIF animado e título -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1hY2tmdm1wejJkcGR1YzZueDRrbzhjYW0xN2NrdmppOG5ldnVkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Bem-vindo" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1hY2tmdm1wejJkcGR1YzZueDRrbzhjYW0xN2NrdmppOG5ldnVkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Bem-vindo" width="200" />
   <h1>Olá, eu sou Anthony Santana</h1>
   <p style="font-size: 1.1em;">Desenvolvedor Fullstack | Java | React | Spring Boot | PostgreSQL</p>
 </div>
 
----
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"</img>
+    <br>
+  </div>
 
 ## Sobre Mim
 
@@ -15,7 +18,10 @@ Sou um profissional apaixonado pelo desenvolvimento de soluções inovadoras e e
 
 > "Transformar desafios em oportunidades com soluções de código limpo e inovador." 
 
----
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"</img>
+    <br>
+  </div>
 
 ## Tecnologias & Ferramentas
 
@@ -26,7 +32,10 @@ Sou um profissional apaixonado pelo desenvolvimento de soluções inovadoras e e
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-  <br /><br />
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"</img>
+    <br>
+  </div>
 
   <!-- Badges Extras com animações leves -->
   <img src="https://img.shields.io/badge/RESTful_API-007ACC?style=for-the-badge&logo=swagger&logoColor=white" alt="RESTful API" />
@@ -36,22 +45,28 @@ Sou um profissional apaixonado pelo desenvolvimento de soluções inovadoras e e
   <img src="https://img.shields.io/badge/Git-Git-231F20?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"</img>
+    <br>
+  </div>
 
 ## Projetos em Destaque
 
 <div align="center">
   <!-- Animação para os projetos com efeito de digitação -->
   <a href="https://github.com/Anthony-Santana11/projeto1](https://github.com/Anthony-Santana11/Sistema-livraria-Rocketseat" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23ED8B00&size=24&center=true&lines=Projeto+Inovador+em+Java" alt="Sistema de Livraria em Java" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23ED8B00&size=24&center=true&lines=Projeto+Livraria+em+Java" alt="Sistema de Livraria em Java" />
   </a>
   <br /><br />
   <a href="https://github.com/Anthony-Santana11/Sistema-de-Agendamento" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=24&center=true&lines=Aplicação+Web+com+React" alt="Agendamento de Consultas React" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=24&center=true&lines=Sistema+Agendamento+com+React" alt="Agendamento de Consultas React" />
   </a>
 </div>
 
----
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"</img>
+    <br>
+  </div>
 
 ## Estatísticas do GitHub
 
@@ -61,7 +76,10 @@ Sou um profissional apaixonado pelo desenvolvimento de soluções inovadoras e e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Santana11&layout=compact&theme=tokyonight" alt="Principais Linguagens" height="180" />
 </div>
 
----
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"</img>
+    <br>
+  </div>
 
 ## Experiências & Contribuições
 
@@ -69,7 +87,10 @@ Sou um profissional apaixonado pelo desenvolvimento de soluções inovadoras e e
 -  Em constante aprendizado sobre novas arquiteturas, frameworks e tendências tecnológicas.
 -  Sempre aberto à colaboração, contribuindo ativamente para projetos open source e iniciativas inovadoras.
 
----
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"</img>
+    <br>
+  </div>
 
 ## Conecte-se Comigo
 
@@ -78,11 +99,14 @@ Sou um profissional apaixonado pelo desenvolvimento de soluções inovadoras e e
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="anthonysantana110306@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 
 
----
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"</img>
+    <br>
+  </div>
 
 <div align="center">
   <!-- GIF de encerramento para dar o toque final -->

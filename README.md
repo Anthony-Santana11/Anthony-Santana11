@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Cabeçalho com GIF animado e título -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1hY2tmdm1wejJkcGR1YzZueDRrbzhjYW0xN2NrdmppOG5ldnVkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Bem-vindo" width="100" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1hY2tmdm1wejJkcGR1YzZueDRrbzhjYW0xN2NrdmppOG5ldnVkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Bem-vindo" width="400" />
   <h1>Olá, eu sou Anthony Santana</h1>
   <p style="font-size: 1.1em;">Desenvolvedor Fullstack | Java | React | Spring Boot | PostgreSQL</p>
 </div>
@@ -86,7 +86,7 @@ Sou um profissional apaixonado pelo desenvolvimento de soluções inovadoras e e
 
 <div align="center">
   <!-- GIF de encerramento para dar o toque final -->
-  <img src="https://tenor.com/pt-BR/view/java-my-beloved-gif-26470299" alt="Coding" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Coding" width="300" />
 </div>
 
 <!-- [Fim do README] -->

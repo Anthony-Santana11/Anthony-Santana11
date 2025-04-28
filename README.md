@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Cabeçalho com GIF animado e título -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1hY2tmdm1wejJkcGR1YzZueDRrbzhjYW0xN2NrdmppOG5ldnVkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Bem-vindo" width="200" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU4Nzc1NzksIm5iZiI6MTc0NTg3NzI3OSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI4VDIxNTQzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiOTkyZDc1YWVhYmJiMmJhMDRhZmE2OTRmZjU5Y2YzODE1ZDc0ODQ5MGIzZjhjNmM1OWI3MzI5OTg4NDBhMTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P9tzHtf5X-RIEUB25SSx_7FVBKnQbevaXYN5ir21ZCw" alt="Bem-vindo" width="400" />
   <h1>Olá, eu sou Anthony Santana</h1>
   <p style="font-size: 1.1em;">Desenvolvedor Fullstack | Java | React | Spring Boot | PostgreSQL</p>
 </div>
